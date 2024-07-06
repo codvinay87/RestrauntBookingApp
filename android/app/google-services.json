@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "921639611488",
+    "project_id": "easemydeal-6ac69",
+    "storage_bucket": "easemydeal-6ac69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921639611488:android:628ef56e78527d8be16705",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIU6ILD-xdC4cILI1-dHHbALNs59hSBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921639611488:android:d17cbb77485b1e3de16705",
+        "android_client_info": {
+          "package_name": "com.example.restraunt_booking_app_easemydeal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADIU6ILD-xdC4cILI1-dHHbALNs59hSBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

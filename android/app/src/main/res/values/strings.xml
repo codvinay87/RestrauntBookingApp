@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<resource>
+    <string name = "app_name">easemydeal</string>
+    <string name="facebook_app_id">1532780810969242</string>
+    <string name="fb_login_protocol_scheme">fb1532780810969242</string>
+    <string name="facebook_client_token">fc87664afafdb436a121670bdef4072d</string>
+
+
+</resource>
